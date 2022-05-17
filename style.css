@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(203, 232, 175);
+}
+img {
+    width: 33%;
+    height: auto; 
+    max-width: 235px;
+    border: 8px solid  rgb(194, 223, 209);
+    border-radius: 50px;
+  }
+  
+p{
+    font-family: Arial;
+}
+h1{
+    color: maroon;
+}
+h2.destination  {
+    padding: 10px;
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h5{
+    color: :rebeccapurple !important;
+}
+h5,
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title{
+    color: teal;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.publish-time{
+    color: grey;
+}
+.cursive {
+    font-family: cursive;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+.description h5 {
+    color: teal;
+}
+button{
+    color: #000;
+    size: auto;
+}
